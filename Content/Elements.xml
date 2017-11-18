@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" />
+  <File Path="Content\demo_page.css" Url="Content/demo_page.css" />
+<File Path="Content\demo_table.css" Url="Content/demo_table.css" />
+<File Path="Content\demo_table_jui.css" Url="Content/demo_table_jui.css" />
+<File Path="Content\jquery.dataTables.css" Url="Content/jquery.dataTables.css" />
+<File Path="Content\jquery.dataTables_themeroller.css" Url="Content/jquery.dataTables_themeroller.css" />
+<File Path="Content\jquery-ui-1.8.4.custom.css" Url="Content/jquery-ui-1.8.4.custom.css" />
+</Module>
+</Elements>

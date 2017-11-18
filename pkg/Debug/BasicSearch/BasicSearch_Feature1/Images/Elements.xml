@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" />
+  <File Path="Images\back_disabled.png" Url="Images/back_disabled.png" />
+<File Path="Images\back_enabled.png" Url="Images/back_enabled.png" />
+<File Path="Images\back_enabled_hover.png" Url="Images/back_enabled_hover.png" />
+<File Path="Images\favicon.ico" Url="Images/favicon.ico" />
+<File Path="Images\forward_disabled.png" Url="Images/forward_disabled.png" />
+<File Path="Images\forward_enabled.png" Url="Images/forward_enabled.png" />
+<File Path="Images\forward_enabled_hover.png" Url="Images/forward_enabled_hover.png" />
+<File Path="Images\sort_asc.png" Url="Images/sort_asc.png" />
+<File Path="Images\sort_asc_disabled.png" Url="Images/sort_asc_disabled.png" />
+<File Path="Images\sort_both.png" Url="Images/sort_both.png" />
+<File Path="Images\sort_desc.png" Url="Images/sort_desc.png" />
+<File Path="Images\sort_desc_disabled.png" Url="Images/sort_desc_disabled.png" />
+<File Path="Images\Sorting icons.psd" Url="Images/Sorting icons.psd" />
+</Module>
+</Elements>

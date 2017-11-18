@@ -1,0 +1,4 @@
+C:\Projects\BasicSearch\bin\Debug\BasicSearch.pdb
+C:\Projects\BasicSearch\obj\Debug\BasicSearch.dll
+C:\Projects\BasicSearch\obj\Debug\BasicSearch.pdb
+C:\Projects\BasicSearch\obj\Debug\BasicSearch.csprojResolveAssemblyReference.cache

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint App Feature" Id="6eb82c8c-ddb7-450d-8f69-c248519968fe" Scope="Web" Title="BasicSearch Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\App.js" />
+    <ElementFile Location="Scripts\jquery.dataTables.js" />
+    <ElementFile Location="Scripts\jquery.dataTables.min.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.min.js" />
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+    <ElementFile Location="Content\demo_page.css" />
+    <ElementFile Location="Content\demo_table.css" />
+    <ElementFile Location="Content\demo_table_jui.css" />
+    <ElementFile Location="Content\jquery.dataTables.css" />
+    <ElementFile Location="Content\jquery.dataTables_themeroller.css" />
+    <ElementFile Location="Content\jquery-ui-1.8.4.custom.css" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\AppIcon.png" />
+    <ElementFile Location="Images\back_disabled.png" />
+    <ElementFile Location="Images\back_enabled.png" />
+    <ElementFile Location="Images\back_enabled_hover.png" />
+    <ElementFile Location="Images\favicon.ico" />
+    <ElementFile Location="Images\forward_disabled.png" />
+    <ElementFile Location="Images\forward_enabled.png" />
+    <ElementFile Location="Images\forward_enabled_hover.png" />
+    <ElementFile Location="Images\sort_asc.png" />
+    <ElementFile Location="Images\sort_asc_disabled.png" />
+    <ElementFile Location="Images\sort_both.png" />
+    <ElementFile Location="Images\sort_desc.png" />
+    <ElementFile Location="Images\sort_desc_disabled.png" />
+    <ElementFile Location="Images\Sorting icons.psd" />
+  </ElementManifests>
+</Feature>
